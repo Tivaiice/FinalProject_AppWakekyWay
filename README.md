@@ -23,9 +23,12 @@
 <h2>📱 Features</h2>
 
 <li>แบ่งการใช้งานเป็น 2 ส่วนหลักๆ</li>
-* แจ้งเตือนก่อนถึงที่หมาย
-** แจ้งเตือนก่อนถึงที่หมาย
-*** แจ้งเตือนก่อนถึงที่หมาย
+
+- แจ้งเตือนก่อนถึงที่หมาย
+
+\*\* แจ้งเตือนก่อนถึงที่หมาย
+
+\*\*\* แจ้งเตือนก่อนถึงที่หมาย
 
 <h2>🔧 Config in code</h2>
 
@@ -68,6 +71,4 @@ const result = await Google.logInAsync({
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
-
 </p>
-```
