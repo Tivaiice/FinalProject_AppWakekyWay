@@ -27,11 +27,40 @@
 <li>Profile 👨🏻‍💻</li>
 <li>History ListMenu Notification 📍💾</li>
 
-<h2>Login in Google 📲 📳</h2>
+🕐<h2> Login in Google 📲 📳</h2>
+
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
-  <p align="right"></p>
+
+🕑<h2> ListMenu Notification 📍📋</h2>
+
+  <li>Menu Notification</li>
+  <li>Shard Destination</li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
+  </p>
+
+🕒<h2>Chat 🗣💬</h2>
+
+  <li>Menu Chat</li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
+  </p>
+
+🕓<h2>Profile 👨🏻‍💻</h2>
+
+  <li>Menu Profile</li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
+  </p>
+
+🕔<h2>History ListMenu Notification 📍💾</h2>
+
+  <li>Menu History List Notification </li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
+  </p>
 
 <h2>🔧 Config in code</h2>
 <li>Config Key Google Map APIs 📂 config.js</li>
