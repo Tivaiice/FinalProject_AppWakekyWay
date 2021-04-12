@@ -19,9 +19,15 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h2>📱 Features</h2>
+<h2>📱 Features 📕</h2>
+<li>🕐 Login in Google 📲📳</li>
+<li>🕑 ListMenu Notification 📍📋</li>
+<li>🕒 Chat 🗣💬</li>
+<li>🕓 Notification 📢🔔</li>
+<li>🕔 Profile 👨🏻‍💻</li>
+<li>🕕 History ListMenu Notification 📍💾</li>
 
-<li>แบ่งการใช้งานเป็น 2 ส่วนหลักๆ</li>
+<li>แบ่งการใช้งานเป็น 5 ส่วนหลักๆ</li>
 - 1. ผู้ใช้งานแบบเดี่ยว
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
