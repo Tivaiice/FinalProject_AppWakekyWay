@@ -11,7 +11,7 @@
 </h1>
 
 <p  align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -25,7 +25,18 @@
 <li>แบ่งการใช้งานเป็น 2 ส่วนหลักๆ</li>
 - แจ้งเตือนก่อนถึงที่หมาย
 
-**Languages and Tools:**
+```Config Firebase
+const firebaseConfig = {
+  apiKey: "XXXXXXXXXXXXXXXXXXXXXXX",
+  authDomain: "XXXXXXXXXXXXXXXXXXXXXXX",
+  databaseURL: "XXXXXXXXXXXXXXXXXXXXXXX",
+  projectId: "XXXXXXXXXXXXXXXXXXXXXXX",
+  storageBucket: "XXXXXXXXXXXXXXXXXXXXXXX",
+  messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXXX",
+  appId: "XXXXXXXXXXXXXXXXXXXXXXX",
+  measurementId: "XXXXXXXXXXXXXXXXXXXXXXX",
+};
+```
 
 <h2>🚀 Some Tools I Use</h2>
 
