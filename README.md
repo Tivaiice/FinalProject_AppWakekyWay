@@ -9,6 +9,7 @@
 <h1 align="center">
   <a href="https://react.semantic-ui.com/">APP WAKEKYWAY</a>
 </h1>
+  <h4 align="center">React Native</h4>
 
 <p  align="center">
   <img alt="ReactNative" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -33,7 +34,7 @@
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
 
-🕑<h2> ListMenu Notification 📍📋</h2>
+<h2>🕑  ListMenu Notification 📍📋</h2>
 
   <li>Menu Notification</li>
   <li>Shard Destination</li>
@@ -41,21 +42,21 @@
     <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
   </p>
 
-🕒<h2>Chat 🗣💬</h2>
+<h2>🕒  Chat 🗣💬</h2>
 
   <li>Menu Chat</li>
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
 
-🕓<h2>Profile 👨🏻‍💻</h2>
+<h2>🕓  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
 
-🕔<h2>History ListMenu Notification 📍💾</h2>
+<h2>🕔  History ListMenu Notification 📍💾</h2>
 
   <li>Menu History List Notification </li>
   <p align="center">
