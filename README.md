@@ -30,6 +30,7 @@
 <h2>🔧 Config in code</h2>
 
 <li>Config Firebase 📂 src/boot/setup  </li>
+
 ```javascript
 const firebaseConfig = {
   apiKey: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
@@ -44,17 +45,19 @@ const firebaseConfig = {
 ```
 
 <li>Config Key Google Map APIs 📂 config.js</li>
+
 ```javascript
 export const GMAP_KEY = "XXXXXXXXXXENJOYCODINGXXXXXXXXX";
 ```
 
 <li>Config Key Google Login 📂 src/containers/LoginContainer</li>
+
 ```javascript
 const result = await Google.logInAsync({
-        androidClientId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-        iosClientId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-        scopes: ["profile", "email"],
-      });
+  androidClientId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  iosClientId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  scopes: ["profile", "email"],
+});
 ```
 
 <h2>🚀 Some Tools I Use</h2>
