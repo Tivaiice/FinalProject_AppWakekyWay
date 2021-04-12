@@ -9,7 +9,6 @@
 <h1 align="center">
   APP WAKEKYWAY
 </h1>
-  <h4 align="center">React Native</h4>
 
 <p  align="center">
   <img alt="ReactNative" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -28,7 +27,7 @@
 <li>Profile 👨🏻‍💻</li>
 <li>History ListMenu Notification 📍💾</li>
 
-<h2>🕐  Login in Google 📲 📳</h2>
+<h2>🕐  Login Google 📲 📳</h2>
 
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
@@ -42,26 +41,34 @@
     <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
   </p>
 
+<h2>Notification 📢🔔</h2>
+
+  <li>Notification แบ่งออกเป็น 2 แบบ</li>
+  <li>1. ผู้ใช้แบบเดี่ยว</li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/iNPQMlFLIs3JXzcYqD/giphy.gif"/>
+  </p>
+  <li>2. ผู้ใช้แบบกลุ่ม</li>
+  <li>แจ้งเตือนผู้ใช้งาน เมื่อถึงเวลาออกเดินทาง</li>
+  <p align="left">
+    <img src="https://media.giphy.com/media/w3nei8ogdyx4kUzVno/giphy.gif"/>
+  </p>
+  <li>แจ้งเตือนผู้ใช้งาน เมื่อใกล้ถึงที่หมาย</li>
+  <p align="right">
+    <img src="https://media.giphy.com/media/mMLLjSPHQRzuvZcwJ0/giphy.gif"/>
+  </p>
+
 <h2>🕒  Chat 🗣💬</h2>
 
   <li>Menu Chat</li>
-  <p align="center">
-    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
-  </p>
 
 <h2>🕓  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
-  <p align="center">
-    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
-  </p>
 
 <h2>🕔  History ListMenu Notification 📍💾</h2>
 
   <li>Menu History List Notification </li>
-  <p align="center">
-    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
-  </p>
 
 <h2>🔧 Config in code</h2>
 <li>Config Key Google Map APIs 📂 config.js</li>
