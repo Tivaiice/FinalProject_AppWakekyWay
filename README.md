@@ -20,7 +20,7 @@
 </p>
 
 <h2>📱 Features 📕</h2>
-<li>🕐 Login in Google 📲📳</li>
+<li>🕐 <t/> Login in Google 📲📳</li>
 <li>🕑 ListMenu Notification 📍📋</li>
 <li>🕒 Chat 🗣💬</li>
 <li>🕓 Notification 📢🔔</li>
