@@ -20,22 +20,41 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h2>📱 Features ⌛</h2>
+<h2>📱 Features</h2>
 
 <li>แบ่งการใช้งานเป็น 2 ส่วนหลักๆ</li>
-- แจ้งเตือนก่อนถึงที่หมาย
+* แจ้งเตือนก่อนถึงที่หมาย
+** แจ้งเตือนก่อนถึงที่หมาย
+*** แจ้งเตือนก่อนถึงที่หมาย
 
+<h2>🔧 Config in code</h2>
+
+<li>Config Firebase 📂 src/boot/setup  </li>
 ```Config Firebase
 const firebaseConfig = {
-  apiKey: "XXXXXXXXXXXXXXXXXXXXXXX",
-  authDomain: "XXXXXXXXXXXXXXXXXXXXXXX",
-  databaseURL: "XXXXXXXXXXXXXXXXXXXXXXX",
-  projectId: "XXXXXXXXXXXXXXXXXXXXXXX",
-  storageBucket: "XXXXXXXXXXXXXXXXXXXXXXX",
-  messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXXX",
-  appId: "XXXXXXXXXXXXXXXXXXXXXXX",
-  measurementId: "XXXXXXXXXXXXXXXXXXXXXXX",
+  apiKey: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  authDomain: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  databaseURL: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  projectId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  storageBucket: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  messagingSenderId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  appId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  measurementId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
 };
+```
+
+<li>Config Key Google Map APIs 📂 config.js</li>
+```Config Key Google Map APIs
+export const GMAP_KEY = "XXXXXXXXXXENJOYCODINGXXXXXXXXX";
+```
+
+<li>Config Key Google Login 📂 src/containers/LoginContainer</li>
+```Config Google logInAsync
+const result = await Google.logInAsync({
+        androidClientId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+        iosClientId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+        scopes: ["profile", "email"],
+      });
 ```
 
 <h2>🚀 Some Tools I Use</h2>
@@ -48,3 +67,4 @@ const firebaseConfig = {
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 
 </p>
+```
