@@ -19,7 +19,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h2>📱 Features 📕</h2>
+<h1>📱 Features 📕</h1>
 <li>Login in Google 📲 📳</li>
 <li>ListMenu Notification 📍📋</li>
 <li>Chat 🗣💬</li>
@@ -27,7 +27,7 @@
 <li>Profile 👨🏻‍💻</li>
 <li>History ListMenu Notification 📍💾</li>
 
-<h3>Login in Google 📲 📳</h3>
+<h2>Login in Google 📲 📳</h2>
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
