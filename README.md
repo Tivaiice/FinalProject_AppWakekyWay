@@ -27,7 +27,7 @@
 <li>Profile 👨🏻‍💻</li>
 <li>History ListMenu Notification 📍💾</li>
 
-🕐<h2> Login in Google 📲 📳</h2>
+<h2>🕐  Login in Google 📲 📳</h2>
 
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
