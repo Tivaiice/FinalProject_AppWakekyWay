@@ -23,7 +23,7 @@
 
 <li>แบ่งการใช้งานเป็น 2 ส่วนหลักๆ</li>
 - 1. ผู้ใช้งานแบบเดี่ยว
-  <p align="=center">
+  <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
   <p align="right"></p>
