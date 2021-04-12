@@ -7,7 +7,7 @@
 
 <!-- Name -->
 <h1 align="center">
-  <a href="https://react.semantic-ui.com/">APP WAKEKYWAY</a>
+  APP WAKEKYWAY
 </h1>
   <h4 align="center">React Native</h4>
 
