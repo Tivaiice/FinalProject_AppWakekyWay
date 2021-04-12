@@ -51,10 +51,11 @@
   <p>
   <li>2. ผู้ใช้แบบกลุ่ม</li>
     <li>แจ้งเตือนผู้ใช้งาน เมื่อถึงเวลาออกเดินทาง</li>
+    <li>แจ้งเตือนผู้ใช้งาน เมื่อใกล้ถึงที่หมาย</li>
+  <p>
     <p align="left">
       <img src="https://media.giphy.com/media/w3nei8ogdyx4kUzVno/giphy.gif"/>
     </p>
-    <li>แจ้งเตือนผู้ใช้งาน เมื่อใกล้ถึงที่หมาย</li>
     <p align="right">
       <img src="https://media.giphy.com/media/mMLLjSPHQRzuvZcwJ0/giphy.gif"/>
     </p>
