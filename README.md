@@ -17,36 +17,19 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 <h2>📱 Features</h2>
 
 <li>แบ่งการใช้งานเป็น 2 ส่วนหลักๆ</li>
-
-- แจ้งเตือนก่อนถึงที่หมาย
-
-\*\* แจ้งเตือนก่อนถึงที่หมาย
-
-\*\*\* แจ้งเตือนก่อนถึงที่หมาย
+- 1. ผู้ใช้งานแบบเดี่ยว
+  <p align="left">
+    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif" width="35" height="35"/>
+  </p>
+  <p align="right"></p>
+- 2. ผู้ใช้งานแบบบกลุ่ม
 
 <h2>🔧 Config in code</h2>
-
-<li>Config Firebase 📂 src/boot/setup  </li>
-
-```javascript
-const firebaseConfig = {
-  apiKey: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-  authDomain: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-  databaseURL: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-  projectId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-  storageBucket: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-  messagingSenderId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-  appId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-  measurementId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
-};
-```
-
 <li>Config Key Google Map APIs 📂 config.js</li>
 
 ```javascript
@@ -63,8 +46,22 @@ const result = await Google.logInAsync({
 });
 ```
 
-<h2>🚀 Some Tools I Use</h2>
+<li>Config Firebase 📂 src/boot/setup  </li>
 
+```javascript
+const firebaseConfig = {
+  apiKey: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  authDomain: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  databaseURL: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  projectId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  storageBucket: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  messagingSenderId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  appId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+  measurementId: "XXXXXXXXXXENJOYCODINGXXXXXXXXX",
+};
+```
+
+<h2>🚀 Some Tools I Use</h2>
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a>
