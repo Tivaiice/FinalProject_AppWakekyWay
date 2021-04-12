@@ -20,20 +20,18 @@
 </p>
 
 <h2>📱 Features 📕</h2>
-<li>🕐 <t/> Login in Google 📲📳</li>
-<li>🕑 ListMenu Notification 📍📋</li>
-<li>🕒 Chat 🗣💬</li>
-<li>🕓 Notification 📢🔔</li>
-<li>🕔 Profile 👨🏻‍💻</li>
-<li>🕕 History ListMenu Notification 📍💾</li>
+<li>Login in Google 📲 📳</li>
+<li>ListMenu Notification 📍📋</li>
+<li>Chat 🗣💬</li>
+<li>Notification 📢🔔</li>
+<li>Profile 👨🏻‍💻</li>
+<li>History ListMenu Notification 📍💾</li>
 
-<li>แบ่งการใช้งานเป็น 5 ส่วนหลักๆ</li>
-- 1. ผู้ใช้งานแบบเดี่ยว
+<h3>Login in Google 📲 📳</h3>
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
   <p align="right"></p>
-- 2. ผู้ใช้งานแบบบกลุ่ม
 
 <h2>🔧 Config in code</h2>
 <li>Config Key Google Map APIs 📂 config.js</li>
