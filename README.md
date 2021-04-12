@@ -23,8 +23,8 @@
 
 <li>แบ่งการใช้งานเป็น 2 ส่วนหลักๆ</li>
 - 1. ผู้ใช้งานแบบเดี่ยว
-  <p align="left">
-    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif" width="35" height="35"/>
+  <p align="=center">
+    <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif" width="50" height="100"/>
   </p>
   <p align="right"></p>
 - 2. ผู้ใช้งานแบบบกลุ่ม
