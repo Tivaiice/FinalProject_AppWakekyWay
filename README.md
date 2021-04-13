@@ -5,9 +5,11 @@
   </a>
 </p>
 
+<style>H1{color:DarkOrange;}</style>
+
 <!-- Name -->
 <p align="center" >
-  <h1 style='color:red'>APP WAKEKYWAY</h1>
+  <h1>APP WAKEKYWAY</h1>
 </p>
 
 <p  align="center">
