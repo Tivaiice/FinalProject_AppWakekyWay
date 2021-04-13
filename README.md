@@ -74,18 +74,19 @@
   <li>Menu Chat</li>
 
 - แชทแบบเดี่ยว
- <p align="center">
-  <img src="https://media.giphy.com/media/HnCnOPXdkrDxDloFFZ/giphy.gif"/>
-</p>
+  <p align="center">
+    <img src="https://media.giphy.com/media/HnCnOPXdkrDxDloFFZ/giphy.gif"/>
+  </p>
 
 - แชทแบบกลุ่ม
-<p >
-  <img src="https://media.giphy.com/media/A56OG4QmtiGb8PWnzM/giphy.gif"/>
-</p>
+  <p align="center">
+    <img src="https://media.giphy.com/media/A56OG4QmtiGb8PWnzM/giphy.gif"/>
+  </p>
 
 <h2>🕔  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
+
   <p align="center">
     <img src="https://user-images.githubusercontent.com/32460672/ 114537099-fe856e80-9c7b-11eb-95f9-9c07eb8f9a68.jpg" height="500" width="250">
   </p>
