@@ -4,12 +4,15 @@
     <img height="128" width="128" src="https://user-images.githubusercontent.com/32460672/114381172-075f3d00-9bb5-11eb-87ac-fb89b320e6b6.png">
   </a>
 </p>
+# Color Test Document
 
 <style>H1{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
 <!-- Name -->
 <p>
   <h1 align="center">APP WAKEKYWAY</h1>
+  #AAAAA
 </p>
 
 <p  align="center">
