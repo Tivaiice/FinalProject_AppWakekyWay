@@ -6,9 +6,9 @@
 </p>
 
 <!-- Name -->
-<h1 style=' color: red' }} align="center" >
-  APP WAKEKYWAY
-</h1>
+<p align="center" >
+  <h1 style='color:red'>APP WAKEKYWAY</h1>
+</p>
 
 <p  align="center">
   <img alt="ReactNative" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -28,7 +28,7 @@
 <li>Add/Delete Friend 👥</li>
 <li>History ListMenu Notification 📍💾</li>
 
-<h2>🕐  Login Google 📲 📳</h2>
+<h2>🕐  Login Google 📲 </h2>
 
   <p align="center">
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
