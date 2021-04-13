@@ -37,15 +37,16 @@
 
 <h2>🕐  Trip 🗺 </h2>
 
-- 🧍 การเดินทางแบบเดี่ยว 🚗🚕
+- 🧍 การเดินทางแบบเดี่ยว 🚗 🚕
 <p align="center">
   <img src="https://media.giphy.com/media/bwvloUaCoGXBF3ileD/giphy.gif"/>
 </p>
 
-- 👬👭 การเดินทางแบบกลุ่ม 🚈🚕
- <p align="center">
-  <img src="https://media.giphy.com/media/S2tdKBqJhiB8IFJmbK/giphy.gif"/>
-</p>
+- 👬👭 การเดินทางแบบกลุ่ม 🚈 🚕
+  > แชร์ข้อมูลสถานที่ให้กับเพื่อนในกลุ่ม
+   <p align="center">
+    <img src="https://media.giphy.com/media/S2tdKBqJhiB8IFJmbK/giphy.gif"/>
+  </p>
 
 <h2>🕑  ListMenu Notification 📍📋</h2>
 
