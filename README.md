@@ -88,7 +88,7 @@
   <li>Menu Profile</li>
 
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/32460672/114539549-ce8b9a80-9c7e-11eb-87ab-0bd2684c37eb.jpg" height="450" width="200">
+    <img src="https://user-images.githubusercontent.com/32460672/114539549-ce8b9a80-9c7e-11eb-87ab-0bd2684c37eb.jpg" height="480" width="220">
   </p>
 
 <h2>🕕  History ListMenu Notification 📍💾</h2>
