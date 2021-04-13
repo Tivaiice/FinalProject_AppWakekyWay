@@ -21,8 +21,8 @@
 
 <h1>📱 Features 📕</h1>
 <li>Login in Google 📲</li>
-<li>ListMenu Notification 📍📋</li>
 <li>Travel alone 🧍/ Travel as a group 👬👭</li>
+<li>ListMenu Notification 📍📋</li>
 <li>Chat 🗣💬</li>
 <li>Notification 📢🔔</li>
 <li>Profile 👨🏻‍💻</li>
