@@ -13,6 +13,7 @@
 <p>
   <h1 align="center">APP WAKEKYWAY</h1>
   #AAAAA
+  <span style="background-color: #FFFF00">Marked text</span>
 </p>
 
 <p  align="center">
