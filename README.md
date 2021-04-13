@@ -37,7 +37,7 @@
 <h2>🕑  ListMenu Notification 📍📋</h2>
 
   <li>Menu Notification</li>
-  > แชร์ข้อมูลสถานที่ให้กับเพื่อนได้
+  -แชร์ข้อมูลสถานที่ให้กับเพื่อนได้
   <p align="center">
     <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
   </p>
@@ -45,13 +45,13 @@
 <h2>Notification 📢🔔</h2>
 
   <li>Notification แบ่งออกเป็น 2 แบบ</li>
-  > 1. ผู้ใช้แบบเดี่ยว
+  -1. ผู้ใช้แบบเดี่ยว
   <p align="center">
     <img src="https://media.giphy.com/media/iNPQMlFLIs3JXzcYqD/giphy.gif"/>
   </p>
   <p>
-  > 2. ผู้ใช้แบบกลุ่ม
-  > > แจ้งเตือนผู้ใช้งาน เมื่อถึงเวลาออกเดินทาง
+  -2. ผู้ใช้แบบกลุ่ม
+  > แจ้งเตือนผู้ใช้งาน เมื่อถึงเวลาออกเดินทาง
   <p align="center">
     <img src="https://media.giphy.com/media/w3nei8ogdyx4kUzVno/giphy.gif"/>
   </p>
@@ -64,11 +64,11 @@
 <h2>🕒  Chat 🗣💬</h2>
 
   <li>Menu Chat</li>
-  > 1. แชทแบบเดี่ยว
+  -1. แชทแบบเดี่ยว
    <p align="center">
     <img src="https://media.giphy.com/media/HnCnOPXdkrDxDloFFZ/giphy.gif"/>
   </p>
-  > 2. แชทแบบกลุ่ม
+  -2. แชทแบบกลุ่ม
   <p align="center">
     <img src="https://media.giphy.com/media/A56OG4QmtiGb8PWnzM/giphy.gif"/>
   </p>
