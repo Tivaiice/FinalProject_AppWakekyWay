@@ -79,16 +79,17 @@
 </p>
 
 - แชทแบบกลุ่ม
-<p align="center">
+<p >
   <img src="https://media.giphy.com/media/A56OG4QmtiGb8PWnzM/giphy.gif"/>
 </p>
 
 <h2>🕔  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
-<img align="center" src="https://user-images.githubusercontent.com/32460672/114537099-fe856e80-9c7b-11eb-95f9-9c07eb8f9a68.jpg" height="200" width="100">
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/32460672/ 114537099-fe856e80-9c7b-11eb-95f9-9c07eb8f9a68.jpg" height="500" width="250">
+  </p>
 
-</p>
 <h2>🕕  History ListMenu Notification 📍💾</h2>
 
   <li>Menu History List Notification </li>
