@@ -43,7 +43,7 @@
   <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
 </p>
 
-<h2>Notification 📢🔔</h2>
+<h2>🕒  Notification 📢🔔</h2>
 
   <li>Notification แบ่งออกเป็น 2 แบบ</li>
 
@@ -69,7 +69,7 @@
   </p>
   </p>
 
-<h2>🕒  Chat 🗣💬</h2>
+<h2>🕓  Chat 🗣💬</h2>
 
   <li>Menu Chat</li>
 
@@ -83,7 +83,7 @@
   <img src="https://media.giphy.com/media/A56OG4QmtiGb8PWnzM/giphy.gif"/>
 </p>
 
-<h2>🕓  Profile 👨🏻‍💻</h2>
+<h2>🕔  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
 <p align="center" width: 100 ,height:200>
@@ -91,7 +91,7 @@
 ![Profile](https://user-images.githubusercontent.com/32460672/114537099-fe856e80-9c7b-11eb-95f9-9c07eb8f9a68.jpg)
 
 </p>
-<h2>🕔  History ListMenu Notification 📍💾</h2>
+<h2>🕕  History ListMenu Notification 📍💾</h2>
 
   <li>Menu History List Notification </li>
   <p align="center">
