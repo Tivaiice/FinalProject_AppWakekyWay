@@ -8,6 +8,7 @@
 <!-- Name -->
 <p>
   <h1 align="center">APP WAKEKYWAY</h1>
+  <h3 align="center">Final Project</h1>
 </p>
 
 <p  align="center">
@@ -106,7 +107,7 @@
     <img src="https://user-images.githubusercontent.com/32460672/114539549-ce8b9a80-9c7e-11eb-87ab-0bd2684c37eb.jpg" height="480" width="220">
   </p>
 
-<h2>🕖  Add/Delete Friend 👥</h2>
+<h2>🕖  Add Friend - Delete Friend 👥</h2>
 
   <li>เพิ่มเพื่อน ลบเพื่อน</li>
   <p align="center">
