@@ -21,7 +21,7 @@
 
 <h1>📱 Features 📕</h1>
 <li>Login in Google 📲</li>
-<li>Travel alone 🧍/ Travel as a group 👬👭</li>
+<li>Trip 🧍 / 👬👭</li>
 <li>ListMenu Notification 📍📋</li>
 <li>Notification 📢🔔</li>
 <li>Chat 🗣💬</li>
@@ -35,14 +35,26 @@
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
 
+<h2>🕐  Trip 🗺 </h2>
+
+- 🧍 การเดินทางแบบเดี่ยว 🚗🚕
+<p align="center">
+  <img src="https://media.giphy.com/media/bwvloUaCoGXBF3ileD/giphy.gif"/>
+</p>
+
+- 👬👭 การเดินทางแบบกลุ่ม 🚈🚕
+ <p align="center">
+  <img src="https://media.giphy.com/media/S2tdKBqJhiB8IFJmbK/giphy.gif"/>
+</p>
+
 <h2>🕑  ListMenu Notification 📍📋</h2>
 
   <li>Menu Notification</li>
 
 - แชร์ข้อมูลสถานที่ให้กับเพื่อนได้
-<p align="center">
-  <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
-</p>
+  <p align="center">
+    <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
+  </p>
 
 <h2>🕒  Notification 📢🔔</h2>
 
