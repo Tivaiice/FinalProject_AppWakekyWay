@@ -6,7 +6,7 @@
 </p>
 
 <!-- Name -->
-<h1 align="center">
+<h1 style=' color: red' }} ,align="center" >
   APP WAKEKYWAY
 </h1>
 
@@ -20,11 +20,12 @@
 </p>
 
 <h1>📱 Features 📕</h1>
-<li>Login in Google 📲 📳</li>
+<li>Login in Google 📲</li>
 <li>ListMenu Notification 📍📋</li>
 <li>Chat 🗣💬</li>
 <li>Notification 📢🔔</li>
 <li>Profile 👨🏻‍💻</li>
+<li>Add/Delete Friend 👥</li>
 <li>History ListMenu Notification 📍💾</li>
 
 <h2>🕐  Login Google 📲 📳</h2>
