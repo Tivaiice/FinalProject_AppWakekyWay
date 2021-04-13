@@ -7,8 +7,8 @@
 
 <!-- Name -->
 <p>
-  <h1 align="center">APP WAKEKYWAY</h1>
-  <h3 align="center">Final Project</h1>
+  <h1 align="center">🚏📍APP WAKEKYWAY🔔💬</h1>
+  <h3 align="center">📘📗📙📕 Final Project 📕📙📗📘</h1>
 </p>
 
 <p  align="center">
