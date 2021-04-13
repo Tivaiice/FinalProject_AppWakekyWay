@@ -86,7 +86,7 @@
 <h2>🕔  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
-<img align="center" width="100" heigh="200" src= ![Profile](https://user-images.githubusercontent.com/32460672/114537099-fe856e80-9c7b-11eb-95f9-9c07eb8f9a68.jpg)>
+<img align="center" src="https://user-images.githubusercontent.com/32460672/114537099-fe856e80-9c7b-11eb-95f9-9c07eb8f9a68.jpg" height="200" width="100">
 
 </p>
 <h2>🕕  History ListMenu Notification 📍💾</h2>
