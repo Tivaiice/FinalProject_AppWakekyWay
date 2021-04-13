@@ -4,17 +4,10 @@
     <img height="128" width="128" src="https://user-images.githubusercontent.com/32460672/114381172-075f3d00-9bb5-11eb-87ac-fb89b320e6b6.png">
   </a>
 </p>
-# Color Test Document
-
-<style>H1{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
 
 <!-- Name -->
 <p>
   <h1 align="center">APP WAKEKYWAY</h1>
-  #AAAAA
-  <span style="background-color: #FFFF00">Marked text</span>
-  <mark style="background-color: lightblue">Marked text</mark>
 </p>
 
 <p  align="center">
@@ -71,14 +64,28 @@
 <h2>🕒  Chat 🗣💬</h2>
 
   <li>Menu Chat</li>
+  <li>1. แชทแบบเดี่ยว</li>
+   <p align="center">
+    <img src="https://media.giphy.com/media/HnCnOPXdkrDxDloFFZ/giphy.gif"/>
+  </p>
+  <li>1. แชทแบบกลุ่ม</li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/A56OG4QmtiGb8PWnzM/giphy.gif"/>
+  </p>
 
 <h2>🕓  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
+   <p align="center">
+    ![Profile](https://user-images.githubusercontent.com/32460672/114537099-fe856e80-9c7b-11eb-95f9-9c07eb8f9a68.jpg)
+  </p>
 
 <h2>🕔  History ListMenu Notification 📍💾</h2>
 
   <li>Menu History List Notification </li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/uPYpzx0UYDcg2p1Ww2/giphy.gif"/>
+  </p>
 
 <h2>🔧 Config in code</h2>
 <li>Config Key Google Map APIs 📂 config.js</li>
