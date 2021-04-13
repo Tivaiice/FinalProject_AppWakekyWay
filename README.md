@@ -6,7 +6,7 @@
 </p>
 
 <!-- Name -->
-<h1 style=' color: red' }} ,align="center" >
+<h1 style=' color: red' }} align="center" >
   APP WAKEKYWAY
 </h1>
 
