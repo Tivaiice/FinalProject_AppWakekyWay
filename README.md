@@ -53,13 +53,17 @@
     <img src="https://media.giphy.com/media/iNPQMlFLIs3JXzcYqD/giphy.gif"/>
   </p>
   <p>
+
   - ผู้ใช้แบบกลุ่ม
+
   > แจ้งเตือนผู้ใช้งาน เมื่อถึงเวลาออกเดินทาง
 
   <p align="center">
     <img src="https://media.giphy.com/media/w3nei8ogdyx4kUzVno/giphy.gif"/>
   </p>
+
   > แจ้งเตือนผู้ใช้งาน เมื่อใกล้ถึงที่หมาย
+
   <p align="center">
     <img src="https://media.giphy.com/media/mMLLjSPHQRzuvZcwJ0/giphy.gif"/>
   </p>
