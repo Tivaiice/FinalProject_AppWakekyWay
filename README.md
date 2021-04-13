@@ -8,8 +8,8 @@
 <style>H1{color:DarkOrange;}</style>
 
 <!-- Name -->
-<p align="center" >
-  <h1>APP WAKEKYWAY</h1>
+<p>
+  <h1 align="center">APP WAKEKYWAY</h1>
 </p>
 
 <p  align="center">
