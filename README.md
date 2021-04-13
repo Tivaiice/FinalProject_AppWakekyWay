@@ -35,7 +35,7 @@
     <img src="https://media.giphy.com/media/H4RcazAokvAYfmmisB/giphy.gif"/>
   </p>
 
-<h2>🕐  Trip 🗺 </h2>
+<h2>🕑  Trip 🗺 </h2>
 
 - 🧍 การเดินทางแบบเดี่ยว 🚗 🚕
 <p align="center">
@@ -49,7 +49,7 @@
     <img src="https://media.giphy.com/media/S2tdKBqJhiB8IFJmbK/giphy.gif"/>
   </p>
 
-<h2>🕑  ListMenu Notification 📍📋</h2>
+<h2>🕒  ListMenu Notification 📍📋</h2>
 
   <li>Menu Notification</li>
 
@@ -58,7 +58,7 @@
     <img src="https://media.giphy.com/media/UTh4HR9M0q8yyvhLjk/giphy.gif"/>
   </p>
 
-<h2>🕒  Notification 📢🔔</h2>
+<h2>🕓  Notification 📢🔔</h2>
 
   <li>Notification แบ่งออกเป็น 2 แบบ</li>
 
@@ -84,7 +84,7 @@
   </p>
   </p>
 
-<h2>🕓  Chat 🗣💬</h2>
+<h2>🕔  Chat 🗣💬</h2>
 
   <li>Menu Chat</li>
 
@@ -98,7 +98,7 @@
     <img src="https://media.giphy.com/media/A56OG4QmtiGb8PWnzM/giphy.gif"/>
   </p>
 
-<h2>🕔  Profile 👨🏻‍💻</h2>
+<h2>🕕  Profile 👨🏻‍💻</h2>
 
   <li>Menu Profile</li>
 
@@ -106,7 +106,14 @@
     <img src="https://user-images.githubusercontent.com/32460672/114539549-ce8b9a80-9c7e-11eb-87ab-0bd2684c37eb.jpg" height="480" width="220">
   </p>
 
-<h2>🕕  History ListMenu Notification 📍💾</h2>
+<h2>🕖  Add/Delete Friend 👥</h2>
+
+  <li>เพิ่มเพื่อน ลบเพื่อน</li>
+  <p align="center">
+    <img src="https://media.giphy.com/media/SUSsTFEntcpv5qv8SI/giphy.gif">
+  </p>
+
+<h2>🕗  History ListMenu Notification 📍💾</h2>
 
   <li>Menu History List Notification </li>
   <p align="center">
