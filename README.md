@@ -20,14 +20,14 @@
 </p>
 
 <h1>📱 Features 📕</h1>
-<li>Login in Google 📲</li>
-<li>Travel alone 🧍/ Travel as a group 👬👭</li>
-<li>ListMenu Notification 📍📋</li>
 <li>Chat 🗣💬</li>
-<li>Notification 📢🔔</li>
 <li>Profile 👨🏻‍💻</li>
+<li>Notification 📢🔔</li>
+<li>Login in Google 📲</li>
 <li>Add/Delete Friend 👥</li>
+<li>ListMenu Notification 📍📋</li>
 <li>History ListMenu Notification 📍💾</li>
+<li>Travel alone 🧍/ Travel as a group 👬👭</li>
 
 <h2>🕐  Login Google 📲 </h2>
 
